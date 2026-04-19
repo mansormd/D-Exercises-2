@@ -1,0 +1,9 @@
+{
+    "id": "Ad1221",
+    "name": "mansormd",
+    "city": "mogadishu",
+    "orders": [
+        {"id":"A", "product": "laptop", "quantitiy": 1},
+        {"id":"B", "product": "mouse", "quantitiy": 2 }
+    ]
+}
